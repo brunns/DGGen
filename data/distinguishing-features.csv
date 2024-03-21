@@ -31,10 +31,10 @@ constitution,13,16,Robust
 constitution,13,16,Never gets sick
 constitution,17,18,Indefatigable
 constitution,17,18,Tough
-constitution,3,4,Ailing
-constitution,3,4,Bedridden
-constitution,3,4,Feeble
-constitution,3,4,Sickly
+constitution,1,4,Ailing
+constitution,1,4,Bedridden
+constitution,1,4,Feeble
+constitution,1,4,Sickly
 constitution,5,8,Delicate
 constitution,5,8,Frail
 constitution,5,8,Unfit
@@ -49,9 +49,9 @@ dexterity,17,18,Acrobatic
 dexterity,17,18,Quick
 dexterity,17,18,Razor sharp
 dexterity,3,4,Accident prone
-dexterity,3,4,Barely mobile
-dexterity,3,4,Lumbering
-dexterity,3,4,Obese
+dexterity,1,4,Barely mobile
+dexterity,1,4,Lumbering
+dexterity,1,4,Obese
 dexterity,5,8,Awkward
 dexterity,5,8,Bulky
 dexterity,5,8,Clumsy
@@ -106,9 +106,9 @@ strength,13,16,Tough
 strength,17,18,Huge
 strength,17,18,Musclebound
 strength,17,18,Strapping
-strength,3,4,Delicate
-strength,3,4,Feeble
-strength,3,4,Wasted
+strength,1,4,Delicate
+strength,1,4,Feeble
+strength,1,4,Wasted
 strength,5,8,Puny
 strength,5,8,Weak
 strength,5,8,Out of shape
